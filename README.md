@@ -48,6 +48,9 @@ Execute os scripts ETL para preparar os dados.
 
 Abra os arquivos do Tableau para visualizar e interagir com os resultados da análise.
 
+## Link do Projeto
+[Acesse aqui](https://public.tableau.com/app/profile/sisnando.nunes.junior/viz/hr_project_17006952987930/HRANALYSIS?publish=yes)
+
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests para aprimorar este projeto.
 
