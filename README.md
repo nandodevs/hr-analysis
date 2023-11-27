@@ -28,7 +28,7 @@ Os dados utilizados neste projeto foram obtidos de fontes confiáveis e abrangem
 
 Os dados utilizados neste projeto foram obtidos de fontes confiáveis e abrangem informações relevantes sobre os funcionários, cargos, níveis educacionais e satisfação. O conjunto de dados está disponível no diretório data.
 
-Como Usar
+## Como Usar
 Clone este repositório:
 
 ## Como Usar
@@ -50,7 +50,7 @@ Abra os arquivos do Tableau para visualizar e interagir com os resultados da an�
 ## Link do Projeto
 [Acesse aqui](https://public.tableau.com/app/profile/sisnando.nunes.junior/viz/hr_project_17006952987930/HRANALYSIS?publish=yes)
 
-[]
+[![Imagem](Backgrounds/Capturar.JPG "Imagem")](Backgrounds/Capturar.JPG "Imagem")
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, propor melhorias ou enviar pull requests para aprimorar este projeto.
